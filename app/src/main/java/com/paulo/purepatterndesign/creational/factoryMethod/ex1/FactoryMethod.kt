@@ -1,4 +1,4 @@
-package com.paulo.purepatterndesign.creational
+package com.paulo.purepatterndesign.creational.factoryMethod.ex1
 /*
      Resolve o problema de CRIAR objetos de produtos sem especificar a sua classe concreta
      Complexidade : BAIXA
