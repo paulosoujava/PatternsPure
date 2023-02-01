@@ -1,4 +1,4 @@
-# PatternsPure
+# Factory Method
 
 <img src="https://raw.githubusercontent.com/paulosoujava/PatternsPure/main/app/src/main/java/com/paulo/purepatterndesign/creational/1.png" width="648">
 <img src="https://raw.githubusercontent.com/paulosoujava/PatternsPure/main/app/src/main/java/com/paulo/purepatterndesign/creational/2.png" width="648">
