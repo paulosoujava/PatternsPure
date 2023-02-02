@@ -1,0 +1,15 @@
+Definição
+    Fornece uma INTERFACE para CRIAR FAMILIAS ee OBJETOS
+    relacionado sem ESPECIFICAR suas classes concretas
+
+A diferença entre o padrão Factory method:
+-> Tinhamos uma super classe abstrata que delegava a criação
+    para suas subclasses, e eles determinavam qual o objeto criava
+    através da HERANÇA
+
+ Já na Abstract Factory criar FAMILIAS de OBJETOS relacionadas
+  implemendando a abstraçao,, ou seja, vc sempre recebera da fabrica
+  p esperado pela classe o abastract usa a COMOSIÇÃO
+
+  Complexidade 2 /3
+  Popularidade 3/3

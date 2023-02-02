@@ -21,8 +21,8 @@ abstract class BoletoXVideo {
 
 
      fun calculaJuros() = valor * juros
-     fun calculaDesconto() = valor * juros
-     fun calculaMulta() = valor * juros
+     fun calculaDesconto() = valor * desconto
+     fun calculaMulta() = valor * multa
 }
 
 class BancoSantoAndre10Dias(override val valor: Float) : BoletoXVideo() {
