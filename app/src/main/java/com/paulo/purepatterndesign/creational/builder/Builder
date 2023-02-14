@@ -1,0 +1,12 @@
+Este padrão separa a construção de um
+objeto complexo e sua representação de modo
+que o mesmo processo de contrução de um objeto
+possa criar diferentes representações
+
+Com isto temos uma maior flexibilide na
+criação do objeto
+
+com isto o cliente pode chamar o passo a passo para
+montar mas teria que conhcer os passos a passos,
+poderiamos criar um classe diretor que com apenas
+um passo vc monte o passo a passo de forma simples
